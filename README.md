@@ -1,6 +1,8 @@
 # EDA-Hospitality-Domain-Analysis
 
-
+<p align="center">
+  <img src="https://github.com/NISSAN40499/EDA-Hospitality-Domain-Analysis/blob/main/images/AtliQ%20Grands.png" width="250">
+</p>
 
 ## Project Overview
 
